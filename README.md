@@ -1,4 +1,6 @@
 # IPL-Correlational-Stat-Analysis-Tableau-Project
+ABOUT:
+
 I have gathered and cleaned ball by ball stats of all IPL matches from the last three seasons (IPL 2018 - IPL 2020) and fed it into Tableau to curate fascinating insights on player performances. 
 
 The following are some of the correlational analysis that I have performed:
@@ -15,7 +17,7 @@ The following are some of the correlational analysis that I have performed:
 5)"Venue Wise Run Scorers" & "Venue Wise Wicket Takers" 
 	- To visualize at what venues does a player score maximum runs/takes maximum wickets	
 	
-Data Facts:
+DATA FACTS:
 
 Source: https://cricsheet.org/downloads/ipl.zip
 
