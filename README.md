@@ -20,7 +20,9 @@ The following are some of the correlational analysis that I have performed:
 DATA FACTS:
 
 Data Source: https://cricsheet.org/downloads/ipl.zip
+
 Viz also Available here : https://public.tableau.com/app/profile/sai.pranav.manoharan
+
 From the YAML files, I refined data as per requirement and converted it into excel. 
 
 Date Range: 2018-2020
